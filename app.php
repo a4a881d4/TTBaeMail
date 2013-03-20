@@ -4,7 +4,7 @@ Baidu Mail extenstion info block
 ##name 百度邮件 
 ##folder_name bae_mail
 ##author a4a881d4
-##email a4a881d4@qq.com
+##email a4a881d4@163.com
 ##reversion 1
 ##desp 通过百度消息队列发送邮件 
 ##update_url 
